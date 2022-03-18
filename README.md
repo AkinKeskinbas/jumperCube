@@ -7,6 +7,8 @@
 - Score system
 - Jumping system
 - Floor Animation
+- 2D Camera System
+- Basic(very ugly) Lighting
 
 # Will Do:
 - Game over state
